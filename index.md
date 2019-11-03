@@ -14,30 +14,22 @@
 
 ## Welcome to Profile Pages
 
-ชื่อ-สกุล : นางสาว สุวัจนีย์ ปัญญาภู
-ชื่อเล่น : ใบเฟิร์น
-อายุ : 20 ปี
+ชื่อ-สกุล : นางสาว แพรทิวา ขันเงิน 
+ชื่อเล่น :เหมียว
+อายุ : 23 ปี
 ปัจจุบันศึกษาอยู่ที่มหาวิทยาลัยเนชั่น
 คณะบริหารธุรกิจและรัฐประศาสนศาสตร์
-สาขาวิทยาการคอมพิวเตอร์ ชั้นปีที่ 3
-วัน/เดือน/ปี เกิด : 8 กันยายน 2541
+สาขาคอมพิวเตอร์ธุรกิจ ชั้นปีที่ 4
+วัน/เดือน/ปี เกิด : 1 มี.ค. 2539
+สีที่ชอบ : สีดำ
 
-น้ำหนัก ส่วนสูง ปัจจุบัน : 39 กิโลกรัม ส่วนสูง 159 เซนติเมตร
-
-วิชาที่ชอบ : ภาษาอังกฤษ วิทยาศาสตร์ คอมพิวเตอร์
-
-สีที่ชอบ : สีขาว สีดำ สีทอง สีเทา
-
-ที่อยู่ : 444 หมู่2 ถนนวชิราวุธดำเนิน ตำบลพระบาท อำเภอเมือง จังหวัดลำปาง 52000
 
 ติดต่อ
 
-เบอร์โทร : 0987646992
-
-Line : Fafearn89.
+FB : praetiwa kanngean
 
 ### 36 pyramid
-<a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_01.php" class="button">pyramid01</a>
+<a href="https://github.com/kanngean/Piramid62-JAVA-/blob/master/meaw01.java" class="button">pyramid01</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_02.php" class="button">pyramid02</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_03.php" class="button">pyramid03</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_04.php" class="button">pyramid04</a>
