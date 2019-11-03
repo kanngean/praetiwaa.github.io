@@ -78,7 +78,8 @@ FB : praetiwa kanngean <br>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.java" class="button">การจัดการกับตัวแปร primitive</a><br>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.PNG" class="button">ผลลัพธ์การจัดการกับตัวแปร primitive</a><br>
 
-
+### [งานมอบหมายที่ 4]
+<a href="https://github.com/kanngean/-JAVA-Home-4/blob/master/10-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1.pdf" class="button">10 โปรแกรมที่มีข้อผิดพลาดโปรแกรมละ10จุดร้อมเฉลย</a><br>
 
 ### [งานมอบหมายที่ 5](https://github.com/suwatjanee005/midtermCpsc331) Midterm Project 
 
