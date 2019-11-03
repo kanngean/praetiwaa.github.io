@@ -69,7 +69,7 @@ FB : praetiwa kanngean <br>
 <a href="https://github.com/kanngean/Piramid62-JAVA-/blob/master/meaw35.java" class="button">pyramid35</a>
 <a href="https://github.com/kanngean/Piramid62-JAVA-/blob/master/meaw36.java" class="button">pyramid36</a>
 
-### [งานมอบหมายที่ 3]
+### งานมอบหมายที่ 3
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/keywords.jpg" class="button">คำสงวน49Keywords และคำศํพท์ทางคอมพิววเตอร์</a><br>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/m.java" class="button">การหาค่า บวก ลบ คูณ หาร</a><br>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/m01.PNG" class="button">ผลลัพธ์การหาค่า บวก ลบ คูณ หาร</a><br>
@@ -78,13 +78,13 @@ FB : praetiwa kanngean <br>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.java" class="button">การจัดการกับตัวแปร primitive</a><br>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.PNG" class="button">ผลลัพธ์การจัดการกับตัวแปร primitive</a><br>
 
-### [งานมอบหมายที่ 4]
+### งานมอบหมายที่ 4
 <a href="https://github.com/kanngean/-JAVA-Home-4/blob/master/10-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1.pdf" class="button">10 โปรแกรมที่มีข้อผิดพลาด(โปรแกรมละ10จุด) พร้อมเฉลย</a><br>
 <a href="https://github.com/kanngean/-JAVA-Home-4/blob/master/UML-Structure.jpg" class="button">UML-Structure</a><br>
 
-### [งานมอบหมายที่ 5]
+### งานมอบหมายที่ 5
 <a href="https://github.com/kanngean/HOME-JAVA-5-/blob/master/งานมอบหมายที่5.pdf" class="button">โปรแกรมรับค่าจากแป้นพิมพ์เก็บลงอาร์เรย์</a><br>
-### [MIDTERM PROJECT]
+### MIDTERM PROJECT
 <a href="https://github.com/kanngean/Midtermproject/blob/master/midtermproject.pdf" class="button">Midterm project</a><br>
 
 
