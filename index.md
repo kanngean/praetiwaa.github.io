@@ -30,10 +30,10 @@ FB : praetiwa kanngean
 
 ### 36 pyramid
 <a href="https://github.com/kanngean/Piramid62-JAVA-/blob/master/meaw01.java" class="button">pyramid01</a>
-<a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_02.php" class="button">pyramid02</a>
-<a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_03.php" class="button">pyramid03</a>
-<a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_04.php" class="button">pyramid04</a>
-<a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_05.php" class="button">pyramid05</a>
+<a href="https://github.com/kanngean/Piramid62-JAVA-/blob/master/meaw01.java" class="button">pyramid02</a>
+<a href="https://github.com/kanngean/Piramid62-JAVA-/blob/master/meaw01.java" class="button">pyramid03</a>
+<a href="https://github.com/kanngean/Piramid62-JAVA-/blob/master/meaw01.java" class="button">pyramid04</a>
+<a href="https://github.com/kanngean/Piramid62-JAVA-/blob/master/meaw01.java" class="button">pyramid05</a>
 
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_06.php" class="button">pyramid06</a>
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_07.php" class="button">pyramid07</a>
