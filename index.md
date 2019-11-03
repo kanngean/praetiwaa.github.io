@@ -15,18 +15,15 @@
 ## Welcome to Profile Pages
 
 ชื่อ-สกุล : นางสาว แพรทิวา ขันเงิน <br>
-ชื่อเล่น :เหมียว
-อายุ : 23 ปี
-ปัจจุบันศึกษาอยู่ที่มหาวิทยาลัยเนชั่น
-คณะบริหารธุรกิจและรัฐประศาสนศาสตร์
-สาขาคอมพิวเตอร์ธุรกิจ ชั้นปีที่ 4
-วัน/เดือน/ปี เกิด : 1 มี.ค. 2539
-สีที่ชอบ : สีดำ
-
-
-ติดต่อ
-
-FB : praetiwa kanngean
+ชื่อเล่น :เหมียว <br>
+อายุ : 23 ปี <br> 
+ปัจจุบันศึกษาอยู่ที่มหาวิทยาลัยเนชั่น <br>
+คณะบริหารธุรกิจและรัฐประศาสนศาสตร์ <br>
+สาขาคอมพิวเตอร์ธุรกิจ ชั้นปีที่ 4 <br>
+วัน/เดือน/ปี เกิด : 1 มี.ค. 2539 <br>
+สีที่ชอบ : สีดำ <br>
+ติดต่อ <br> 
+FB : praetiwa kanngean <br> 
 
 ### 36 pyramid
 <a href="https://github.com/kanngean/Piramid62-JAVA-/blob/master/meaw01.java" class="button">pyramid01</a>
@@ -73,13 +70,13 @@ FB : praetiwa kanngean
 <a href="https://github.com/kanngean/Piramid62-JAVA-/blob/master/meaw36.java" class="button">pyramid36</a>
 
 ### [งานมอบหมายที่ 3]
-<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/keywords.jpg" class="button">คำสงวน49Keywords และคำศํพท์ทางคอมพิววเตอร์</a>
-<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/m.java" class="button">การหาค่า บวก ลบ คูณ หาร</a>
-<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/m01.PNG" class="button">ผลลัพธ์การหาค่า บวก ลบ คูณ หาร</a>
-<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/a.java" class="button">การหาค่า max min</a>
-<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mxmn.PNG" class="button">ผลลัพธ์การหาค่า max min</a>
-<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.java" class="button"การจัดการกับตัวแปร primitive</a>
-<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.PNG" class="button"ผลลัพธ์การจัดการกับตัวแปร primitive</a>
+<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/keywords.jpg" class="button">คำสงวน49Keywords และคำศํพท์ทางคอมพิววเตอร์</a><br>
+<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/m.java" class="button">การหาค่า บวก ลบ คูณ หาร</a><br>
+<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/m01.PNG" class="button">ผลลัพธ์การหาค่า บวก ลบ คูณ หาร</a><br>
+<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/a.java" class="button">การหาค่า max min</a><br>
+<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mxmn.PNG" class="button">ผลลัพธ์การหาค่า max min</a><br>
+<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.java" class="button"การจัดการกับตัวแปร primitive</a><br>
+<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.PNG" class="button"ผลลัพธ์การจัดการกับตัวแปร primitive</a><br>
 
 
 
