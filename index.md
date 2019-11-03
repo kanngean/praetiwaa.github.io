@@ -75,8 +75,8 @@ FB : praetiwa kanngean <br>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/m01.PNG" class="button">ผลลัพธ์การหาค่า บวก ลบ คูณ หาร</a><br>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/a.java" class="button">การหาค่า max min</a><br>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mxmn.PNG" class="button">ผลลัพธ์การหาค่า max min</a><br>
-<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.java" class="button"การจัดการกับตัวแปร primitive</a><br>
-<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.PNG" class="button"ผลลัพธ์การจัดการกับตัวแปร primitive</a><br>
+<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.java" class="button">การจัดการกับตัวแปร primitive</a><br>
+<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.PNG" class="button">ผลลัพธ์การจัดการกับตัวแปร primitive</a><br>
 
 
 
