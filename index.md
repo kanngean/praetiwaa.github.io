@@ -73,7 +73,7 @@ FB : praetiwa kanngean
 <a href="https://github.com/kanngean/Piramid62-JAVA-/blob/master/meaw36.java" class="button">pyramid36</a>
 
 ### [งานมอบหมายที่ 3]
-<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/70226344_459951534592292_6164646248772009984_n.jpg" class="button">คำสงวน และ คำศัพทืทางคอมพิวเตอร์</a>
+<a href="https://github.com/kanngean/-JAVA-Home3/blob/master/keywords.jpg" class="button">คำสงวน49Keywords และคำศํพท์ทางคอมพิววเตอร์</a>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/m.java" class="button">การหาค่า บวก ลบ คูณ หาร</a>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/m01.PNG" class="button">ผลลัพธ์การหาค่า บวก ลบ คูณ หาร</a>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/a.java" class="button">การหาค่า max min</a>
