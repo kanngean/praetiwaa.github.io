@@ -84,4 +84,7 @@ FB : praetiwa kanngean <br>
 
 ### [งานมอบหมายที่ 5]
 <a href="https://github.com/kanngean/HOME-JAVA-5-/blob/master/งานมอบหมายที่5.pdf" class="button">โปรแกรมรับค่าจากแป้นพิมพ์เก็บลงอาร์เรย์</a><br>
+### [MIDTERM PROJECT]
+<a href="https://github.com/kanngean/Midtermproject/blob/master/midtermproject.pdf" class="button">Midterm project</a><br>
+
 
