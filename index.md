@@ -82,5 +82,6 @@ FB : praetiwa kanngean <br>
 <a href="https://github.com/kanngean/-JAVA-Home-4/blob/master/10-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1.pdf" class="button">10 โปรแกรมที่มีข้อผิดพลาด(โปรแกรมละ10จุด) พร้อมเฉลย</a><br>
 <a href="https://github.com/kanngean/-JAVA-Home-4/blob/master/UML-Structure.jpg" class="button">UML-Structure</a><br>
 
-### [งานมอบหมายที่ 5](https://github.com/suwatjanee005/midtermCpsc331) Midterm Project 
+### [งานมอบหมายที่ 5]
+<a href="https://github.com/kanngean/HOME-JAVA-5-/blob/master/งานมอบหมายที่5.pdf" class="button">โปรแกรมรับค่าจากแป้นพิมพ์เก็บลงอาร์เรย์</a><br>
 
