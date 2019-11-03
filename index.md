@@ -6,7 +6,7 @@
 <body>
     <div class="w3-container">
         <br /> <br /> <br /> 
-  <img src="fearn.jpg" class="w3-round-xxlarge" w3-center style="width:50%">
+  <img src="meaw.jpg" class="w3-round-xxlarge" w3-center style="width:50%">
 </div>
 </body>
 </html>
@@ -79,7 +79,8 @@ FB : praetiwa kanngean <br>
 <a href="https://github.com/kanngean/-JAVA-Home3/blob/master/mm.PNG" class="button">ผลลัพธ์การจัดการกับตัวแปร primitive</a><br>
 
 ### [งานมอบหมายที่ 4]
-<a href="https://github.com/kanngean/-JAVA-Home-4/blob/master/10-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1.pdf" class="button">10 โปรแกรมที่มีข้อผิดพลาดโปรแกรมละ10จุดร้อมเฉลย</a><br>
+<a href="https://github.com/kanngean/-JAVA-Home-4/blob/master/10-%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1.pdf" class="button">10 โปรแกรมที่มีข้อผิดพลาด(โปรแกรมละ10จุด) พร้อมเฉลย</a><br>
+<a href="https://github.com/kanngean/-JAVA-Home-4/blob/master/UML-Structure.jpg" class="button">UML-Structure</a><br>
 
 ### [งานมอบหมายที่ 5](https://github.com/suwatjanee005/midtermCpsc331) Midterm Project 
 
